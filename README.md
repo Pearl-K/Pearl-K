@@ -1,7 +1,7 @@
 ### Hello, I'm Jenett
 
-- 🔭 I’m currently working on studying DS & Algorithm
-- 🌱 I’m currently learning Python, AI/ML and Flutter!
+- 🔭 I’m currently working on making an app
+- 🌱 I’m currently learning Python(studying DS & Algorithm), AI/ML and Flutter!
 - 📫 How to reach me: (E-mail) jjkang0227@ewhain.net
 - 🍓 Korean name : Jinju Kang & English name : Jenett or Pearl (either is fine)
 
