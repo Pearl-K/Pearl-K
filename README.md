@@ -1,4 +1,4 @@
-### Hello, I'm Jenett
+### Hello, I'm Pearl
 
 - 🔭 I’m currently working on making an study app
 - 🌱 I’m currently learning Python(studying DS & Algorithm), AI/ML and Flutter!
