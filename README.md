@@ -1,6 +1,5 @@
 ### Hello, I'm Pearl
 
-- 🔭 I’m currently working on making an study app
 - 🌱 I’m currently learning Python(studying DS & Algorithm) and Flutter!
 - 📫 How to reach me: (E-mail) jjkang0227@ewhain.net
 - 🍓 Korean name: Jinju Kang & English name: Pearl and Jenett (either is fine)
