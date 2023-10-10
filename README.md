@@ -3,8 +3,7 @@
 - E-mail: jjkang0227@ewhain.net
 
 
-- Career 수상 경력
-- 
+Career 수상 경력
   (2023. 08) SUAPC 2023 SUMMER 학교별 1등상
   
 
