@@ -6,7 +6,7 @@
 
 ## Skills
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
-<img src="https://img.shields.io/badge/amazonrds-FC4C02?style=flat-square&logo=amazonrds&logoColor=white"> 
+<img src="https://img.shields.io/badge/amazonrds-FC4C02?style=flat-square&logo=Amazon_RDS&logoColor=white"> 
 
 
 
