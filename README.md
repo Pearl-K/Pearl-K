@@ -7,7 +7,7 @@
 ## Skills
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_RDS-FC4C02?style=flat-square&logo=amazonrds&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_RDS-FC4C02?style=flat-square&logo=amazonrds&logoColor=white"> 
 
 
 
