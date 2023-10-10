@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_RDS-FC4C02?style=flat-square&logo=amazonrds&logoColor=white"> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl-K&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pearl-K&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
