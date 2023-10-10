@@ -2,7 +2,7 @@
 - I’m currently learning Python(studying DS & Algorithm), Java Spring and Kotlin!
 - E-mail: jjkang0227@ewhain.net
 
-### Career 수상 경력
+## Career 수상 경력
   (2023. 08) SUAPC 2023 SUMMER 학교별 1등상
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pearl55)](https://solved.ac/pearl55/)<br>
 
