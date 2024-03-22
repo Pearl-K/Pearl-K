@@ -4,16 +4,11 @@
 - Blog : https://pearlb1ue.tistory.com/
 
 ## ✅Experiences
-  (2024.03) UMC 6th AOS 파트
+ - UMC 6th AOS 파트 (2024.03 ~ now)
+ - SUAPC - 신촌 연합 프로그래밍 대회 2023 SUMMER 학교별 1등상 (2023.08) 
+ - Java Spring Boot 스터디 참여 & 토이프로젝트 개발 (2023.04 ~ 2023.09)
+ - 수도권 대학생 연합 알고리즘 스터디 운영 (2023.02 ~ 2023.06)
   
-  
-  (2023.08) SUAPC - 신촌 연합 프로그래밍 대회 2023 SUMMER 학교별 1등상
-
-  
-  (2023.04) Java Spring Boot 스터디 참여 & 토이프로젝트 개발
-
-  
-  (2023.02) 수도권 대학생 연합 알고리즘 스터디 운영
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pearl55)](https://solved.ac/pearl55/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pearl55&theme=dark)
