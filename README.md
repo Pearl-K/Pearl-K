@@ -1,5 +1,4 @@
 ## 😇Pearl
-- I’m currently learning Python(studying DS & Algorithm), Java Spring and Kotlin!
 - E-mail: jjkang0227@ewhain.net
 - Blog : https://pearlb1ue.tistory.com/
 
