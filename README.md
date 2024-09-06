@@ -3,7 +3,7 @@
 - Blog : https://pearlb1ue.tistory.com/
 
 ## ✅Experiences
- - UMC 6th AOS 파트 (2024.03 ~ now)
+ - UMC 6th AOS 파트 (2024.03 ~ 2024.08)
  - SUAPC - 신촌 연합 알고리즘 프로그래밍 대회 2023 SUMMER 학교별 1등상 (2023.08) 
  - Spring Boot 토이 프로젝트, KiwiWrite : 랜덤 키워드 기반 글 창작 웹 어플리케이션 (2023.04 ~ 2023.09)
  - 수도권 대학생 연합 알고리즘 스터디 운영 (2023.02 ~ 2023.06)
