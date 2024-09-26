@@ -3,7 +3,7 @@
 - Blog : https://pearlb1ue.tistory.com/
 
 ## ✅Experiences
- - Android(Kotlin) APP, ReadMe : 독서 생활, 기록 공유 sns 애플리케이션, 연합 동아리 공모전 대상 수상 (2024.08)
+ - Android (Kotlin) APP, ReadMe : 독서 생활, 기록 공유 sns 애플리케이션, 연합 동아리 공모전 대상 수상 (2024.08)
  - UMC 6th Android 파트 (2024.03 - 2024.08)
  - SUAPC - 신촌 연합 알고리즘 프로그래밍 대회 2023 SUMMER 학교별 1등상 (2023.08) 
  - Spring Boot 토이 프로젝트, KiwiWrite : 랜덤 키워드 기반 글 창작 웹 애플리케이션 (2023.04 - 2023.09)
