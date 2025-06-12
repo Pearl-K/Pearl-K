@@ -1,6 +1,6 @@
 ## 🐰Pearl Kang
 - E-mail: rkdwlswn227@gmail.com
-- Blog : https://pearlb1ue.tistory.com/
+- Blog : https://pearlb1ue.tistory.com
 
 ## ✨Experiences
 - 삼성 청년 소프트웨어 아카데미 - Java 전공반 수료 (2024.07 - 2025.06)
