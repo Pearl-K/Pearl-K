@@ -11,7 +11,7 @@
 
 ---
 **Contact**
-- [E-mail](rkdwlswn227@gmail.com)
+- rkdwlswn227@gmail.com
 - [LinkedIn](www.linkedin.com/in/jinju-kang-8625b6271)
 - [Blog]( https://pearlb1ue.tistory.com)
 
