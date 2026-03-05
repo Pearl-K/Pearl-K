@@ -1,6 +1,9 @@
 **I'm...**
-- Java/Kotlin-based Spring Boot backend developer with a strong interest in database systems across relational, NoSQL, and vector paradigms.
-- AI-native junior engineer who uses AI coding agents to accelerate development and workflows while maintaining strong CS fundamentals.
+- Java/Kotlin-based Spring Boot backend developer exploring relational, NoSQL, and vector databases.
+- AI-native junior engineer leveraging AI coding agents to accelerate development and workflows with strong CS fundamentals.
+
+
+
 
 
 **Work Experience**
