@@ -1,5 +1,5 @@
 **I'm...**
-- Java/Kotlin-based Spring Boot backend developer exploring relational, NoSQL, and vector databases.
+- Java/Kotlin-based Spring Boot backend developer exploring relational, and NoSQL Databases.
 - AI-native junior engineer leveraging AI coding agents to accelerate development and workflows with strong CS fundamentals.
 
 
@@ -7,7 +7,7 @@
 
 
 **Work Experience**
-- Backend Engineer at Musinsa (Mar 2026 – Present)
+- Flatform / Backend Engineer at Musinsa (Mar 2026 – Present)
 
 ---
 **Contact**
