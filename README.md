@@ -7,7 +7,7 @@
 
 
 **Work Experience**
-- Flatform / Backend Engineer at Musinsa (Mar 2026 – Present)
+- Platform / Backend Engineer at Musinsa (Mar 2026 – Present)
 
 ---
 **Contact**
